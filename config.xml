@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20200"
+        id        = "cy.com.zorbas.lms2"
+        versionCode = "092017"
         version   = "3.3.2">
-    <name>Moodle Mobile</name>
+    <name>Bakers Academy</name>
 
     <description>
-        Moodle Mobile official app
+        Bakers Academy by Zorbas
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://www.humanasset.com" email="info@humanasset.com">
+        Zorbass Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -134,7 +134,7 @@
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" />
 
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.9.2">
-        <param name="SENDER_ID" value="694767596569" />
+        <param name="SENDER_ID" value="219028530090" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="moodlemobile" />
