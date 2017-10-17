@@ -66185,7 +66185,7 @@ angular.module('mm.core')
     "app_id" : "cy.com.zorbas.lms2",
     "appname": "Bakers Academy",
     "desktopappname": "Moodle Desktop",
-    "versioncode" : "092017",
+    "versioncode" : "102017",
     "versionname" : "3.3.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
@@ -66198,6 +66198,6 @@ angular.module('mm.core')
     "siteurl": "",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    "privacypolicy": "http://www.humanasset.com/moodle-learning-management-system/policy-of-mobile/"
 }
 );
