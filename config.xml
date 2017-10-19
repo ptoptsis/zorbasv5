@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "cy.com.zorbas.lms2"
-        versionCode = "102017"
+        versionCode = "3.3.2"
         version   = "3.3.2">
     <name>Bakers Academy</name>
 

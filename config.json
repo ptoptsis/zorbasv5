@@ -2,7 +2,7 @@
     "app_id" : "cy.com.zorbas.lms2",
     "appname": "Bakers Academy",
     "desktopappname": "Moodle Desktop",
-    "versioncode" : "102017",
+    "versioncode" : "3.3.2",
     "versionname" : "3.3.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
