@@ -294,6 +294,8 @@
     "mm.grades.range": "Εύρος",
     "mm.grades.rank": "Κατάταξη",
     "mm.grades.weight": "βαθμός βαρύτητας",
+	"mm.login.sitelist": "Επιλέξτε από τη λίστα",
+	"mm.login.sitetype": "Ή πληκτρολογήστε άλλο",
     "mm.login.auth_email": "Email-based αυτο-εγγραφή",
     "mm.login.authenticating": "Έλεγχος ταυτότητας",
     "mm.login.cancel": "Ακύρωση",

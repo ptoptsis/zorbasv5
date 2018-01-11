@@ -607,6 +607,8 @@
     "mm.grades.range": "Range",
     "mm.grades.rank": "Rank",
     "mm.grades.weight": "Weight",
+	"mm.login.sitelist": "Select site from list",
+	"mm.login.sitetype": "Or type another",
     "mm.login.auth_email": "Email-based self-registration",
     "mm.login.authenticating": "Authenticating",
     "mm.login.cancel": "Cancel",
